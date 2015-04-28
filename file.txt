@@ -1,8 +1,7 @@
 How do you create a new git repository locally?
-
+Create a directory, go into it and use 'git init' to start tracking changes. Otherwise, you can use 'git clone' to take a repository from github.com and copy it to a local folder.
 How would you find out what files are currently staged?
 
 How would you add a file to the staging area?
 
-How would you commit your changes with the message 'Adding git-test questions'?
-
+How would you commit your changes with the message 'Adding git-test questions'?:
