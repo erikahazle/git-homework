@@ -4,4 +4,4 @@ How would you find out what files are currently staged?
 Type 'git status'. All of the staged files will appear green.
 How would you add a file to the staging area?
 Type 'git add <filename>'
-How would you commit your changes with the message 'Adding git-test questions'?:
+How would you commit your changes with the message 'Adding git-test questions'?:git commit -m 'Adding git-test questions'
